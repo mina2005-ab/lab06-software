@@ -1,0 +1,7 @@
+/home/minahil/lab06-software
+├── evidence
+│   └── 01_tree.txt
+├── notes
+└── README.md
+
+2 directories, 2 files

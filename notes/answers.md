@@ -1,0 +1,1 @@
+The cammand 'apt update' only fetches and refreshes the package list catalogs and indexes from the remote repositries to cheak for available updates . it does not install or change any software. on the eother hand, 'apt upgrades' and install the actual softare packages and system patches based on thise updates lists
